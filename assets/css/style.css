@@ -119,13 +119,14 @@ section {
 
 .hero-form label {
     margin: 0 5px;
+    border: none;
 }
 
 .hero-form button {
     color: #fce138;
-    background-color: #024e76;
-    border: none;
     padding: 10px 20px;
     font-size: 16px;
+    background-color: #024e76;
 }
-/*Hero style end */
+
+/* Hero style end */
